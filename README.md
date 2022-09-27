@@ -1,7 +1,5 @@
 # Weather-App
- A weather app that pulls from the OpenWeatherMap API 
- to allow users to search for and view the forecast in cities worldwide.
- The app displays curent weather, temperature, humidity and wind speed.
+ **A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. The app displays curent weather, temperature, humidity and wind speed.**
  
  
 ## Landing Page:
@@ -34,17 +32,19 @@
 
 # Weather App Live Demo:
 
-[ Live Demo Link http://127.0.0.1:5500/index.html ]
+[Live Demo Link] (http://127.0.0.1:5500/index.html)
 
 ## Develop by
-#### Javeriya Shaikh
+#### Javeriya Shaikh 👩‍💻
  
-- Github: [ Javeriya21   ]
+- Github: [Javeriya21]
 
-- Linkedin: [ Javeriya Shaikh https://www.linkedin.com/in/javeriya-shaikh-228a99209 ]
+- Linkedin: [Javeriya Shaikh](https://www.linkedin.com/in/javeriya-shaikh-228a99209)
+
+- Email Id: shaikhjaveriya7@gmail.com
 
 
  
  ### Show your support
  
- Give a  if you like this project!
+ Give a ⭐ if you like this project!
