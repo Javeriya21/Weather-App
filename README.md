@@ -4,7 +4,7 @@
  The app displays curent weather, temperature, humidity and wind speed.
  
  
- Landing Page:
+# Landing Page:
  
 
 
@@ -12,15 +12,16 @@
 
 
 
-Actual Weather: 
+# Actual Weather: 
 
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/108418892/191753006-3d62f77d-c49a-466a-be3a-2b88e0a2405e.png)
 
 
 
-Build With: 
+# Build With Using: 
 
 HTML
 CSS
 JAVASCRIPT
+API
