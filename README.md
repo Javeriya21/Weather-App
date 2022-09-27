@@ -4,7 +4,7 @@
  The app displays curent weather, temperature, humidity and wind speed.
  
  
-# Landing Page:
+## Landing Page:
  
 
 
@@ -12,7 +12,7 @@
 
 
 
-# Actual Weather: 
+## Actual Weather: 
 
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/108418892/191753006-3d62f77d-c49a-466a-be3a-2b88e0a2405e.png)
@@ -34,17 +34,17 @@
 
 # Weather App Live Demo:
 
-[Live Demo Link http://127.0.0.1:5500/index.html]
+[ Live Demo Link http://127.0.0.1:5500/index.html ]
 
 ## Develop by
- Javeriya Shaikh
+#### Javeriya Shaikh
  
-- Github: [Javeriya21   ]
+- Github: [ Javeriya21   ]
 
-- Linkedin: [Javeriya Shaikh  ]
+- Linkedin: [ Javeriya Shaikh https://www.linkedin.com/in/javeriya-shaikh-228a99209 ]
 
 
  
- # Show your support
+ ### Show your support
  
  Give a  if you like this project!
